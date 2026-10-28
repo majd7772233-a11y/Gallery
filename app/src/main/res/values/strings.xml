@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">الأستوديو</string>
+    <string name="tab_pictures">الصور</string>
+    <string name="tab_albums">الألبومات</string>
+    <string name="tab_stories">القصص</string>
+    <string name="tab_shared">مشتركة</string>
+    <string name="action_search">بحث</string>
+    <string name="action_more">المزيد</string>
+    <string name="action_select">تحديد</string>
+    <string name="settings">الضبط</string>
+    <string name="editor">المحرر</string>
+    <string name="theme">المظهر</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="theme_system">النظام</string>
+    <string name="language">اللغة</string>
+    <string name="permission_required">يجب منح صلاحية الوصول للصور لعرضها.</string>
+    <string name="grant_permission">منح الصلاحية</string>
+    <string name="copy">نسخ</string>
+    <string name="paste">لصق</string>
+    <string name="delete">حذف</string>
+    <string name="new_album">ألبوم جديد</string>
+    <string name="cache_manager">إدارة التخزين المؤقت</string>
+    <string name="today">اليوم</string>
+    <string name="yesterday">أمس</string>
+    
+    <!-- New UI Strings -->
+    <string name="suggested">المقترحة</string>
+    <string name="recent">الأحدث</string>
+    <string name="favorites">المفضلة</string>
+    <string name="videos">مقاطع فيديو</string>
+    
+    <string name="menu_camera">الكاميرا</string>
+    <string name="menu_edit">تعديل</string>
+    <string name="menu_select_all">تحديد الكل</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_create_gif">إنشاء صورة GIF</string>
+    <string name="menu_slideshow">عرض الشرائح</string>
+    <string name="menu_group_similar">تجميع الصور المتشابهة</string>
+    <string name="menu_trash">سلة المحذوفات</string>
+    
+    <string name="play_video">تشغيل الفيديو</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="reset">إعادة الضبط</string>
+
+    <string name="special_albums">ألبومات خاصة</string>
+    <string name="custom_albums">ألبومات مخصصة</string>
+    <string name="add_to_album">إضافة إلى ألبوم</string>
+    <string name="add_to_favorites">إضافة إلى المفضلة</string>
+    <string name="create_collage">إنشاء مجمع صور / GIF</string>
+    <string name="select_target_album">اختر الألبوم المطلوب</string>
+    <string name="no_custom_albums">لا توجد ألبومات مخصصة بعد. أنشئ ألبوماً من تبويب الألبومات أولاً!</string>
+    <string name="added_to_album">تمت الإضافة بنجاح</string>
+    <string name="image_details">تفاصيل الصورة</string>
+    <string name="video_details">تفاصيل الفيديو</string>
+    <string name="set_wallpaper">تعيين كخلفية الشاشة</string>
+    <string name="unlock_controls">إلغاء قفل الشاشة</string>
+    <string name="grid_columns">عدد أعمدة عرض الصور</string>
+    <string name="autoplay_videos">تشغيل الفيديو تلقائياً</string>
+    <string name="trash_retention">الاحتفاظ بالمحذوفات (30 يوماً)</string>
+    <string name="cloud_sync">مزامنة Samsung Cloud</string>
+    <string name="ultra_hd_thumbs">صور مصغرة عالية الجودة</string>
+    <string name="hide_hidden_albums">إخفاء الألبومات المحمية</string>
+    <string name="about_gallery">حول أستوديو سامسونج</string>
+    <string name="version">الإصدار 15.0.01 (One UI 6.1)</string>
+
+    <!-- One UI 6.1 Details Sheet Strings -->
+    <string name="remaster_photo">إعادة تحسين الصورة</string>
+    <string name="object_eraser">ممحاة العناصر</string>
+    <string name="secure_folder">نقل للمجلد الآمن</string>
+    <string name="quick_share">مشاركة سريعة</string>
+    <string name="location">الموقع</string>
+    <string name="camera_details">بيانات الكاميرا</string>
+    <string name="file_info">معلومات الملف</string>
+    <string name="swipe_up_for_details">اسحب لأعلى لعرض التفاصيل</string>
+    <string name="open_in_maps">عرض على الخريطة</string>
+    <string name="add_tag">إضافة وسوم/تاغ</string>
+</resources>
